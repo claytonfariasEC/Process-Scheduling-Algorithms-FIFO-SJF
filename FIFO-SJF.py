@@ -1,10 +1,5 @@
 
 '''
-
-Trabalho Sistemas Operacionais
-NOME : Clayton R. Farias
-Matrícula : 70879
-
 '''
 import time
 import threading
